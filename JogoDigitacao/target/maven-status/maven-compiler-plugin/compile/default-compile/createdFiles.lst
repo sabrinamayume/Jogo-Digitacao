@@ -1,0 +1,10 @@
+br\edu\fei\model\Frase.class
+br\edu\fei\model\ArquivoFrases.class
+br\edu\fei\controller\Controller.class
+br\edu\fei\controller\Controller$2.class
+br\edu\fei\view\TelaDigitacao.class
+br\edu\fei\jogodigitacao\JogoDigitacao.class
+br\edu\fei\model\ArquivoScore.class
+br\edu\fei\controller\Controller$1.class
+br\edu\fei\controller\Controller$3.class
+br\edu\fei\model\Jogo.class
