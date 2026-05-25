@@ -20,7 +20,10 @@ A cada confirmação, o programa informa se a frase digitada está correta ou er
 - Git/GitHub
 
 ## Estrutura do projeto
-     fei
+        │
+        ├── JogoDigitacao
+        │   └── JogoDigitacao.java
+        │
         ├── controller
         │   └── Controller.java
         │
